@@ -20,6 +20,7 @@
   "dgram": "react-native-udp",
   "stream": "stream-browserify",
   "timers": "timers-browserify",
+  "child_process": "react-native-childprocess",
   "tty": "tty-browserify",
   "vm": "vm-browserify",
   "tls": false

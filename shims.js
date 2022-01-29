@@ -27,6 +27,7 @@ module.exports = {
   "tty-browserify": "0.0.0",
   "url": "~0.10.1",
   "util": "~0.10.3",
+  "react-native-childprocess": "0.1.4",
   "react-native-tcp": "^3.2.1",
   "vm-browserify": "0.0.4"
 }

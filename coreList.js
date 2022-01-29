@@ -25,6 +25,7 @@ module.exports = [
   "tty",
   "url",
   "util",
+  "child_process",
   "net",
   "vm",
   // note: tls doesn't have a shim
